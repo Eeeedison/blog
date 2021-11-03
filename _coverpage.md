@@ -1,4 +1,4 @@
-![icon](https://cdn.jsdelivr.net/gh/wugenqiang/StaticRepo/images/icon.png)
+
 
 ## Journey
 
