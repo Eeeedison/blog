@@ -1,4 +1,4 @@
-- [<span class="iconfont icon-book3"></span> 首页](https://bytesfly.vercel.app/)
+- [<span class="iconfont icon-book3"></span> 首页](https://eeeedison.github.io/blog/)
 - [<span class="iconfont icon-icon_fabu"></span> 导航](README.md)
   - (README?id=Linux)
   - (README?id=macOS)
@@ -6,7 +6,6 @@
   - [AI](README?id=花花草草)
   - [工具](README?id=工具)
 
-- [<span class="iconfont icon-github1"></span> GitHub](https://github.com/bytesfly/blog)
 
 
 
