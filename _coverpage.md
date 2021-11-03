@@ -1,8 +1,8 @@
 ![icon](https://cdn.jsdelivr.net/gh/wugenqiang/StaticRepo/images/icon.png)
 
-## 字节飞扬
+## Journey
 
-- 互联网是有记忆的，我想留下一些成长的脚印。
+- Till I find the end of this road
 
 
 [GitHub](https://github.com/bytesfly/blog)
